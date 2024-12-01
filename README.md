@@ -7,3 +7,5 @@ with only tech stack
 -->Javascript
 -->gsap,locomotive
 -->scrollTrigger
+ great learning while try to learn js
+ 
